@@ -17,6 +17,7 @@ This repository contains all my SQL queries and exercises from the challenge. Ea
 
 ```bash
 git clone https://github.com/yourusername/21DaysSQLChallenge.git
+```
 Open your SQL client (pgAdmin, MySQL Workbench, etc.)
 
 Run the .sql files to practice and explore the queries
